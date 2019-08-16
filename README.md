@@ -33,6 +33,6 @@ if (ev.item.isNode) {
   const nm = ev.item.getModel()
   _this.code = nm.code
 }
-#Echo display data
+# Echo display data
 数据回显
 page.read(data)
